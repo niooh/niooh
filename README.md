@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @niooh
+- 👀 I have some interest in scientific computing, data visualization, and front-end development.
+- 🌱 I'm trying to gain a deeper understanding of physics and chemistry.
+- 😄 Pronunciation: `N I O O H / Nickel O O H`
