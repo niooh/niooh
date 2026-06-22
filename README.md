@@ -1,18 +1,19 @@
 <table>
-  <tr>
-    <td>▶ Hi, I’m <abbr title="https://github.com/niooh">@niooh</abbr>.</td>
-  </tr>
+  <tr><td>
+    <table><tbody><tr>
+      <td>Hi, I’m <abbr title="https://github.com/niooh">@niooh</abbr>.</td>
+      <td>Pronunciation: <kbd>N I O O H / Nickel O O H</kbd>.</td>
+    </tr></tbody></table>
+  </td></tr>
   <tr></tr>
   <tr>
-    <td>▶ I have some interest in scientific computing, data visualization, and front-end development.</td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td>▶ I'm trying to gain a deeper understanding of physics and chemistry.</td>
-  </tr>
-  <tr></tr>
-  <tr>
-    <td>▶ Pronunciation: <kbd>N I O O H / Nickel O O H</kbd>.</td>
+   <td>
+     <table><tbody>
+       <tr><td>I have some interest in scientific computing, data visualization, and front-end development.</td></tr>
+       <tr></tr>
+       <tr><td>I'm trying to gain a deeper understanding of physics and chemistry as well.</td></tr>
+     </tr></tbody></table>
+   </td>
   </tr>
   <tr></tr>
   <tr>
