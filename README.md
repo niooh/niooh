@@ -17,7 +17,5 @@
    </td>
   </tr>
   <tr></tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niooh&layout=compact&hide=HTML,CSS,SCSS&hide_title=true&hide_border=true&theme=transparent&card_width=500"/></td>
-  </tr>
+  <tr><td><img src="lang.svg"></td></tr>
 </table>

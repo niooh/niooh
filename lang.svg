@@ -1,0 +1,51 @@
+<!-- simplified from: 
+- https://helio-github-stats.vercel.app/api/top-langs?username=niooh&layout=compact&hide=HTML,CSS,SCSS&hide_title=true&hide_border=true&theme=transparent&card_width=500
+- https://github-readme-stats.vercel.app/api/top-langs/?username=niooh&layout=compact&hide=HTML,CSS,SCSS&hide_title=true&hide_border=true&theme=transparent&card_width=500
+ -->
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="135" viewBox="0 0 500 135" fill="none" role="img">
+  <style>
+    .lang-name {
+      font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
+      fill: #000;
+    }
+    @media (prefers-color-scheme: dark) {
+      .lang-name {
+        fill: #fff;
+      }
+    }
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="499" fill="none"/>
+  <g transform="translate(0, 25)">
+    <svg x="25">
+      <mask id="rect-mask"><rect x="0" y="0" width="450" height="8" fill="white" rx="5"/></mask>
+      <rect mask="url(#rect-mask)" x="0" y="0" width="251.39" height="8" fill="#3178c6"/>
+      <rect mask="url(#rect-mask)" x="251.39" y="0" width="88.89" height="8" fill="#f1e05a"/>
+      <rect mask="url(#rect-mask)" x="340.28" y="0" width="70.36" height="8" fill="#3572A5"/>
+      <rect mask="url(#rect-mask)" x="410.64" y="0" width="39.14" height="8" fill="#ffc200"/>
+      <rect mask="url(#rect-mask)" x="449.78" y="0" width="10.21" height="8" fill="#89e051"/>
+
+      <g transform="translate(0, 25)">
+        <g transform="translate(0, 0)">
+          <circle cx="5" cy="6" r="5" fill="#3178c6"/>
+          <text x="15" y="10" class="lang-name">TypeScript 55.87%</text>
+        </g>
+        <g transform="translate(0, 25)">
+          <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
+          <text x="15" y="10" class="lang-name">JavaScript 19.75%</text>
+        </g>
+        <g transform="translate(0, 50)">
+          <circle cx="5" cy="6" r="5" fill="#3572A5"/>
+          <text x="15" y="10" class="lang-name">Python 15.64%</text>
+        </g>
+        <g transform="translate(150, 0)">
+          <circle cx="5" cy="6" r="5" fill="#ffc200"/>
+          <text x="15" y="10" class="lang-name">Nim 8.70%</text>
+        </g>
+        <g transform="translate(150, 25)">
+          <circle cx="5" cy="6" r="5" fill="#89e051"/>
+          <text x="15" y="10" class="lang-name">Shell 0.05%</text>
+        </g>
+      </g>
+    </svg>
+  </g>
+</svg>
