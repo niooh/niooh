@@ -18,32 +18,37 @@
   <g transform="translate(0, 25)">
     <svg x="25">
       <mask id="rect-mask"><rect x="0" y="0" width="450" height="8" fill="white" rx="5"/></mask>
-      <rect mask="url(#rect-mask)" x="0" y="0" width="251.39" height="8" fill="#3178c6"/>
-      <rect mask="url(#rect-mask)" x="251.39" y="0" width="88.89" height="8" fill="#f1e05a"/>
-      <rect mask="url(#rect-mask)" x="340.28" y="0" width="70.36" height="8" fill="#3572A5"/>
-      <rect mask="url(#rect-mask)" x="410.64" y="0" width="39.14" height="8" fill="#ffc200"/>
-      <rect mask="url(#rect-mask)" x="449.78" y="0" width="10.21" height="8" fill="#89e051"/>
+      <rect mask="url(#rect-mask)" x="0" y="0" width="262.40" height="8" fill="#3178c6"/>
+      <rect mask="url(#rect-mask)" x="262.40" y="0" width="68.99" height="8" fill="#f1e05a"/>
+      <rect mask="url(#rect-mask)" x="331.39" y="0" width="49.91" height="8" fill="#3572A5"/>
+      <rect mask="url(#rect-mask)" x="381.30" y="0" width="32.99" height="8" fill="#f34b7d"/>
+      <rect mask="url(#rect-mask)" x="414.29" y="0" width="31.46" height="8" fill="#ffc200"/>
+      <rect mask="url(#rect-mask)" x="445.75" y="0" width="4.32" height="8" fill="#C1F12E"/>
 
       <g transform="translate(0, 25)">
         <g transform="translate(0, 0)">
           <circle cx="5" cy="6" r="5" fill="#3178c6"/>
-          <text x="15" y="10" class="lang-name">TypeScript 55.87%</text>
+          <text x="15" y="10" class="lang-name">TypeScript 58.31%</text>
         </g>
         <g transform="translate(0, 25)">
           <circle cx="5" cy="6" r="5" fill="#f1e05a"/>
-          <text x="15" y="10" class="lang-name">JavaScript 19.75%</text>
+          <text x="15" y="10" class="lang-name">JavaScript 15.33%</text>
         </g>
         <g transform="translate(0, 50)">
           <circle cx="5" cy="6" r="5" fill="#3572A5"/>
-          <text x="15" y="10" class="lang-name">Python 15.64%</text>
+          <text x="15" y="10" class="lang-name">Python 11.09%</text>
         </g>
-        <g transform="translate(150, 0)">
+        <g transform="translate(225, 0)">
+          <circle cx="5" cy="6" r="5" fill="#f34b7d"/>
+          <text x="15" y="10" class="lang-name">C++ 7.33%</text>
+        </g>
+        <g transform="translate(225, 25)">
           <circle cx="5" cy="6" r="5" fill="#ffc200"/>
-          <text x="15" y="10" class="lang-name">Nim 8.70%</text>
+          <text x="15" y="10" class="lang-name">Nim 6.99%</text>
         </g>
-        <g transform="translate(150, 25)">
-          <circle cx="5" cy="6" r="5" fill="#89e051"/>
-          <text x="15" y="10" class="lang-name">Shell 0.05%</text>
+        <g transform="translate(225, 50)">
+          <circle cx="5" cy="6" r="5" fill="#C1F12E"/>
+          <text x="15" y="10" class="lang-name">Batchfile 0.96%</text>
         </g>
       </g>
     </svg>
